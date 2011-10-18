@@ -1,0 +1,993 @@
+<locations>
+    <location>
+        <name>Aba Nigeria Employment Resource Center</name>
+        <latitude>5.1000010</latitude><longitude>7.3499720</longitude>
+    </location>
+    <location><name>Abidjan Ivory Coast Employment Resource Center</name>
+        <latitude>5.3304010</latitude><longitude>-4.0593130</longitude>
+    </location>
+    <location><name>Accra Ghana Employment Resource Center</name>
+        <latitude>5.5666810</latitude><longitude>-0.1936890</longitude>
+    </location>
+    <location><name>Adelaide Australia Employment Resource Center</name>
+        <latitude>-34.9038570</latitude><longitude>138.6510270</longitude>
+    </location>
+    <location><name>Aguascalientes Mexico Employment Resource Center</name>
+        <latitude>21.8694110</latitude><longitude>-102.2983000</longitude>
+    </location>
+    <location><name>Albuquerque New Mexico Employment Resource Center</name>
+        <latitude>35.1538040</latitude><longitude>-106.5935290</longitude>
+    </location>
+    <location><name>American Fork Utah Employment Resource Center</name>
+        <latitude>40.3684847</latitude><longitude>-111.7853759</longitude>
+    </location>
+    <location><name>Anchorage Alaska Employment Resource Center</name>
+        <latitude>61.2003700</latitude><longitude>-149.7635410</longitude>
+    </location>
+    <location><name>Angeles City Philippines Employment Resource Center</name>
+        <latitude>15.1224540</latitude><longitude>120.6014950</longitude>
+    </location>
+    <location><name>Antofagasta Chile Employment Resource Center</name>
+        <latitude>-23.6340130</latitude><longitude>-70.3874880</longitude>
+    </location>
+    <location><name>Apia Samoa Employment Resource Center</name>
+        <latitude>-13.8411230</latitude><longitude>-171.7860700</longitude>
+    </location>
+    <location><name>Aracaju Brazil Employment Resource Center</name>
+        <latitude>-10.9159160</latitude><longitude>-37.0703340</longitude>
+    </location>
+    <location><name>Arequipa Peru Employment Resource Center</name>
+        <latitude>-16.4033780</latitude><longitude>-71.5223990</longitude>
+    </location>
+    <location><name>Arica Chile Employment Resource Center</name>
+        <latitude>-18.4756370</latitude><longitude>-70.3180070</longitude>
+    </location>
+    <location><name>Asuncin Paraguay Employment Resource Center</name>
+        <latitude>-25.2889080</latitude><longitude>-57.6326360</longitude>
+    </location>
+    <location><name>Atlanta Georgia Employment Resource Center</name>
+        <latitude>33.8596041</latitude><longitude>-84.1918760</longitude>
+    </location>
+    <location><name>Auckland New Zealand Employment Resource Center</name>
+        <latitude>-36.9803750</latitude><longitude>174.8777030</longitude>
+    </location>
+    <location><name>Austin Texas Employment Resource Center</name>
+        <latitude>30.2676049</latitude><longitude>-97.7429849</longitude>
+    </location>
+    <location><name>Bacolod Philippines Employment Resource Center</name>
+        <latitude>10.6691720</latitude><longitude>122.9511770</longitude>
+    </location>
+    <location><name>Bakersfield California Employment Resource Center</name>
+        <latitude>35.3293700</latitude><longitude>-119.0435330</longitude>
+    </location>
+    <location><name>Bangalore India Employment Resource Center</name>
+        <latitude>12.9669150</latitude><longitude>77.6038060</longitude>
+    </location>
+    <location><name>Bangkok Thailand Employment Resource Center</name>
+        <latitude>13.7495530</latitude><longitude>100.5630780</longitude>
+    </location>
+    <location><name>Barcelona Venezuela Employment Resource Center</name>
+        <latitude>10.2157840</latitude><longitude>-64.6336170</longitude>
+    </location>
+    <location><name>Barquisimeto Venezuela Employment Resource Center</name>
+        <latitude>10.0760633</latitude><longitude>-69.3378811</longitude>
+    </location>
+    <location><name>Barranquilla Colombia Employment Resource Center</name>
+        <latitude>10.9816360</latitude><longitude>-74.8043690</longitude>
+    </location>
+    <location><name>Beaverton Oregon Employment Resource Center</name>
+        <latitude>45.4898510</latitude><longitude>-122.7784700</longitude>
+    </location>
+    <location><name>Belo Horizonte Brazil Employment Resource Center</name>
+        <latitude>-19.9285000</latitude><longitude>-43.9731200</longitude>
+    </location>
+    <location><name>Belm Brazil Employment Resource Center</name>
+        <latitude>-1.4084290</latitude><longitude>-48.4362960</longitude>
+    </location>
+    <location><name>Benin City Nigeria Employment Resource Center</name>
+        <latitude>6.3519667</latitude><longitude>5.6156667</longitude>
+    </location>
+    <location><name>Birmingham Alabama Employment Resource Center</name>
+        <latitude>33.4396210</latitude><longitude>-86.7412300</longitude>
+    </location>
+    <location><name>Birmingham England Employment Resource Center</name>
+        <latitude>52.5358330</latitude><longitude>-1.8123690</longitude>
+    </location>
+    <location><name>Blackfoot Idaho Employment Resource Center</name>
+        <latitude>43.1924390</latitude><longitude>-112.3441100</longitude>
+    </location>
+    <location><name>Bogot Colombia Employment Resource Center</name>
+        <latitude>4.6631000</latitude><longitude>-74.0804890</longitude>
+    </location>
+    <location><name>Boise Idaho Employment Resource Center</name>
+        <latitude>43.6195290</latitude><longitude>-116.3164940</longitude>
+    </location>
+    <location><name>Boston Massachusetts Employment Resource Center</name>
+        <latitude>42.3356940</latitude><longitude>-71.3189860</longitude>
+    </location>
+    <location><name>Braslia Brazil Employment Resource Center</name>
+        <latitude>-15.7561980</latitude><longitude>-47.8969980</longitude>
+    </location>
+    <location><name>Bremerton Washington Employment Resource Center</name>
+        <latitude>47.5618660</latitude><longitude>-122.6807270</longitude>
+    </location>
+    <location><name>Brigham City Utah Employment Resource Center</name>
+        <latitude>41.5104169</latitude><longitude>-112.0247348</longitude>
+    </location>
+    <location><name>Brisbane Australia Employment Resource Center</name>
+        <latitude>-27.4729280</latitude><longitude>153.0266870</longitude>
+    </location>
+    <location><name>Bucaramanga Colombia Employment Resource Center</name>
+        <latitude>7.1113870</latitude><longitude>-73.1067460</longitude>
+    </location>
+    <location><name>Buenos Aires Argentina Employment Resource Center</name>
+        <latitude>-34.6107030</latitude><longitude>-58.3696170</longitude>
+    </location>
+    <location><name>Buenos Aires-Adrogue Argentina Employment Resource Center</name>
+        <latitude>-34.8013170</latitude><longitude>-58.4026020</longitude>
+    </location>
+    <location><name>Buenos Aires-Escobar Argentina Employment Resource Center</name>
+        <latitude>-34.3552240</latitude><longitude>-58.7979930</longitude>
+    </location>
+    <location><name>Buenos Aires-Padua Argentina Employment Resource Center</name>
+        <latitude>-34.6638360</latitude><longitude>-58.6992480</longitude>
+    </location>
+    <location><name>Burley Idaho Employment Resource Center</name>
+        <latitude>42.5511880</latitude><longitude>-113.7932760</longitude>
+    </location>
+    <location><name>Cagayan de Oro Philippines Employment Resource Center</name>
+        <latitude>8.4867460</latitude><longitude>124.6383830</longitude>
+    </location>
+    <location><name>Calgary Alberta Canada Employment Resource Center</name>
+        <latitude>50.9920260</latitude><longitude>-114.0570190</longitude>
+    </location>
+    <location><name>Cali Colombia Employment Resource Center</name>
+        <latitude>3.4278610</latitude><longitude>-76.5265880</longitude>
+    </location>
+    <location><name>Campinas Brazil Employment Resource Center</name>
+        <latitude>-22.9084070</latitude><longitude>-47.0554720</longitude>
+    </location>
+    <location><name>Cape Town South Africa Employment Resource Center</name>
+        <latitude>-33.9586470</latitude><longitude>18.5792060</longitude>
+    </location>
+    <location><name>Caracas Venezuela Employment Resource Center</name>
+        <latitude>10.4963220</latitude><longitude>-66.8470710</longitude>
+    </location>
+    <location><name>Cardston Alberta Canada Employment Resource Center</name>
+        <latitude>49.2007611</latitude><longitude>-113.3064484</longitude>
+    </location>
+    <location><name>Cebu Philippines Employment Resource Center</name>
+        <latitude>10.3195750</latitude><longitude>123.9058790</longitude>
+    </location>
+    <location><name>Cedar City Utah Employment Resource Center</name>
+        <latitude>37.6791056</latitude><longitude>-113.0717920</longitude>
+    </location>
+    <location><name>Cedar Rapids Iowa Employment Resource Center</name>
+        <latitude>41.9859270</latitude><longitude>-91.6045870</longitude>
+    </location>
+    <location><name>Centerville Utah Employment Resource Center</name>
+        <latitude>40.9065210</latitude><longitude>-111.8772340</longitude>
+    </location>
+    <location><name>Chalco Mexico Employment Resource Center</name>
+        <latitude>19.2537190</latitude><longitude>-98.9003440</longitude>
+    </location>
+    <location><name>Charlotte North Carolina Employment Resource Center</name>
+        <latitude>35.2335160</latitude><longitude>-80.7757110</longitude>
+    </location>
+    <location><name>Chicago Illinois Employment Resource Center</name>
+        <latitude>41.7951280</latitude><longitude>-88.0953170</longitude>
+    </location>
+    <location><name>Chicago Pulaski Illinois Employment Resource Center</name>
+        <latitude>41.8335690</latitude><longitude>-87.7255940</longitude>
+    </location>
+    <location><name>Chiclayo Peru Employment Resource Center</name>
+        <latitude>-6.7631961</latitude><longitude>-79.8359570</longitude>
+    </location>
+    <location><name>Chihuahua Mxico Employment Resource Center</name>
+        <latitude>28.6482100</latitude><longitude>-106.0828590</longitude>
+    </location>
+    <location><name>Chilln Chile Employment Resource Center</name>
+        <latitude>-36.6012970</latitude><longitude>-72.1021580</longitude>
+    </location>
+    <location><name>Chimbote Peru Employment Resource Center</name>
+        <latitude>-9.0739550</latitude><longitude>-78.6001641</longitude>
+    </location>
+    <location><name>Churubusco Mexico Employment Resource Center</name>
+        <latitude>19.3450910</latitude><longitude>-99.1392800</longitude>
+    </location>
+    <location><name>Ciudad Juarez Mxico Employment Resource Center</name>
+        <latitude>31.6920340</latitude><longitude>-106.4226080</longitude>
+    </location>
+    <location><name>Ciudad Obregon Mexico Employment Resource Center</name>
+        <latitude>27.4740830</latitude><longitude>-109.9477970</longitude>
+    </location>
+    <location><name>Coacalco Mexico Employment Resource Center</name>
+        <latitude>19.5834510</latitude><longitude>-99.0391030</longitude>
+    </location>
+    <location><name>Coatzacoalcos Mexico Employment Resource Center</name>
+        <latitude>18.1372830</latitude><longitude>-94.4334730</longitude>
+    </location>
+    <location><name>Cochabamba Bolivia Employment Resource Center</name>
+        <latitude>-17.3836135</latitude><longitude>-66.1666038</longitude>
+    </location>
+    <location><name>Colorado Springs Colorado Employment Resource Center</name>
+        <latitude>38.8114930</latitude><longitude>-104.7510490</longitude>
+    </location>
+    <location><name>Colton California Employment Resource Center</name>
+        <latitude>34.0570990</latitude><longitude>-117.3283660</longitude>
+    </location>
+    <location><name>Columbia South Carolina Employment Resource Center</name>
+        <latitude>33.9931360</latitude><longitude>-81.0316150</longitude>
+    </location>
+    <location><name>Columbus Ohio Employment Resource Center</name>
+        <latitude>40.0930730</latitude><longitude>-83.0193610</longitude>
+    </location>
+    <location><name>Concepcion Chile Employment Resource Center</name>
+        <latitude>-36.8334100</latitude><longitude>-73.0550750</longitude>
+    </location>
+    <location><name>Concord California Employment Resource Center</name>
+        <latitude>37.9571320</latitude><longitude>-122.0308510</longitude>
+    </location>
+    <location><name>Cuautitlan Tepalcapa Mexico Employment Resource Center</name>
+        <latitude>19.6307310</latitude><longitude>-99.2007120</longitude>
+    </location>
+    <location><name>Cuautla Mxico Employment Resource Center</name>
+        <latitude>18.8205230</latitude><longitude>-98.9514810</longitude>
+    </location>
+    <location><name>Culiacn Mxico Employment Resource Center</name>
+        <latitude>24.7954710</latitude><longitude>-107.3900090</longitude>
+    </location>
+    <location><name>Curitiba Brazil Employment Resource Center</name>
+        <latitude>-25.4348270</latitude><longitude>-49.2762380</longitude>
+    </location>
+    <location><name>Cusco Per Employment Resource Center</name>
+        <latitude>-13.5317400</latitude><longitude>-71.9636090</longitude>
+    </location>
+    <location><name>Crdoba Argentina Employment Resource Center</name>
+        <latitude>-31.4199010</latitude><longitude>-64.1832260</longitude>
+    </location>
+    <location><name>Dagupan Philippines Employment Resource Center</name>
+        <latitude>16.0476360</latitude><longitude>120.3426190</longitude>
+    </location>
+    <location><name>Dallas Texas Employment Resource Center</name>
+        <latitude>32.9757880</latitude><longitude>-96.9149920</longitude>
+    </location>
+    <location><name>Davao Philippines Employment Resource Center</name>
+        <latitude>7.0842950</latitude><longitude>125.6115970</longitude>
+    </location>
+    <location><name>David Panama Employment Resource Center</name>
+        <latitude>8.4181080</latitude><longitude>-82.4415920</longitude>
+    </location>
+    <location><name>Denver Colorado Employment Resource Center</name>
+        <latitude>39.7637420</latitude><longitude>-104.8125800</longitude>
+    </location>
+    <location><name>Detroit (Inner City) Michigan  Employment Resource Center</name>
+        <latitude>42.4186250</latitude><longitude>-83.1099780</longitude>
+    </location>
+    <location><name>Detroit Michigan Employment Resource Center</name>
+        <latitude>42.4948020</latitude><longitude>-83.4194630</longitude>
+    </location>
+    <location><name>Dublin Ireland Employment Resource Center</name>
+        <latitude>53.3720460</latitude><longitude>-6.2831750</longitude>
+    </location>
+    <location><name>Durban South Africa Employment Resource Center</name>
+        <latitude>-29.8469270</latitude><longitude>30.9949830</longitude>
+    </location>
+    <location><name>Edmonton Alberta Canada Employment Resource Center</name>
+        <latitude>53.5180480</latitude><longitude>-113.5075560</longitude>
+    </location>
+    <location><name>El Paso Texas Employment Resource Center</name>
+        <latitude>31.7826510</latitude><longitude>-106.4608010</longitude>
+    </location>
+    <location><name>Ephraim Utah Employment Resource Center</name>
+        <latitude>39.3598410</latitude><longitude>-111.5846170</longitude>
+    </location>
+    <location><name>Eugene Oregon Employment Resource Center</name>
+        <latitude>44.0444820</latitude><longitude>-123.0002400</longitude>
+    </location>
+    <location><name>Fairfield California Employment Resource Center</name>
+        <latitude>38.2792680</latitude><longitude>-122.0300750</longitude>
+    </location>
+    <location><name>Feira de Santana Brazil Employment Resource Center</name>
+        <latitude>-12.2500990</latitude><longitude>-38.9586340</longitude>
+    </location>
+    <location><name>Florianopolis Brazil Employment Resource Center</name>
+        <latitude>-27.5918180</latitude><longitude>-48.5481080</longitude>
+    </location>
+    <location><name>Fortaleza Brazil Employment Resource Center</name>
+        <latitude>-3.7329020</latitude><longitude>-38.5077940</longitude>
+    </location>
+    <location><name>Fountain Valley California Employment Resource Center</name>
+        <latitude>33.7113730</latitude><longitude>-117.9324360</longitude>
+    </location>
+    <location><name>Freetown Sierra Leone Employment Resource Center</name>
+        <latitude>8.4715460</latitude><longitude>-13.2363320</longitude>
+    </location>
+    <location><name>Fremont California Employment Resource Center</name>
+        <latitude>37.5746550</latitude><longitude>-122.0291300</longitude>
+    </location>
+    <location><name>Fresno California Employment Resource Center</name>
+        <latitude>36.7618010</latitude><longitude>-119.7080550</longitude>
+    </location>
+    <location><name>General Santos Philippines Employment Resource Center</name>
+        <latitude>6.1088930</latitude><longitude>125.1697320</longitude>
+    </location>
+    <location><name>Goinia Brazil  Employment Resource Center</name>
+        <latitude>-16.6805890</latitude><longitude>-49.2698190</longitude>
+    </location>
+    <location><name>Guadalajara Mexico Employment Resource Center</name>
+        <latitude>20.6766670</latitude><longitude>-103.3683330</longitude>
+    </location>
+    <location><name>Guatemala City Guatemala Employment Resource Center</name>
+        <latitude>14.6067660</latitude><longitude>-90.5163080</longitude>
+    </location>
+    <location><name>Guayaquil Ecuador Employment Resource Center</name>
+        <latitude>-2.1692210</latitude><longitude>-79.9035320</longitude>
+    </location>
+    <location><name>Guayaquil Sur Ecuador Employment Resource Center</name>
+        <latitude>-2.2035373</latitude><longitude>-79.8978180</longitude>
+    </location>
+    <location><name>Hamilton New Zealand Employment Resource Center</name>
+        <latitude>-37.7877006</latitude><longitude>175.2784455</longitude>
+    </location>
+    <location><name>Harare Zimbabwe Employment Resource Center</name>
+        <latitude>-17.8037270</latitude><longitude>31.0831480</longitude>
+    </location>
+    <location><name>Hermosillo Mexico Employment Resource Center</name>
+        <latitude>29.1153700</latitude><longitude>-110.9803200</longitude>
+    </location>
+    <location><name>Hong Kong China Employment Resource Center</name>
+        <latitude>22.2791990</latitude><longitude>114.1748730</longitude>
+    </location>
+    <location><name>Honolulu Hawaii Employment Resource Center</name>
+        <latitude>21.2994070</latitude><longitude>-157.8370050</longitude>
+    </location>
+    <location><name>Houston Texas Employment Resource Center</name>
+        <latitude>30.0065820</latitude><longitude>-95.4313910</longitude>
+    </location>
+    <location><name>Huehuetenango Guatemala Employment Resource Center</name>
+        <latitude>15.3151760</latitude><longitude>-91.4768300</longitude>
+    </location>
+    <location><name>Idaho Falls Idaho Employment Resource Center</name>
+        <latitude>43.4965240</latitude><longitude>-112.0379520</longitude>
+    </location>
+    <location><name>Iloilo Philippines Employment Resource Center</name>
+        <latitude>10.6962070</latitude><longitude>122.5613090</longitude>
+    </location>
+    <location><name>Indianapolis Indiana Employment Resource Center</name>
+        <latitude>39.9072670</latitude><longitude>-86.2493560</longitude>
+    </location>
+    <location><name>Iquique Chile Employment Resource Center</name>
+        <latitude>-20.2180812</latitude><longitude>-70.1379530</longitude>
+    </location>
+    <location><name>Jacksonville Florida Employment Resource Center</name>
+        <latitude>30.1598340</latitude><longitude>-81.7471680</longitude>
+    </location>
+    <location><name>Jakarta Indonesia Employment Resource Center</name>
+        <latitude>-6.2277722</latitude><longitude>106.8478750</longitude>
+    </location>
+    <location><name>Johannesburg South Africa Employment Resource Center</name>
+        <latitude>-26.1770830</latitude><longitude>28.0385280</longitude>
+    </location>
+    <location><name>Joo Pessoa Brazil Employment Resource Center</name>
+        <latitude>-7.1258610</latitude><longitude>-34.8779500</longitude>
+    </location>
+    <location><name>Kansas City Missouri Employment Resource Center</name>
+        <latitude>39.0900230</latitude><longitude>-94.4217200</longitude>
+    </location>
+    <location><name>Kaohsiung Taiwan Employment Resource Center</name>
+        <latitude>22.6501500</latitude><longitude>120.3453810</longitude>
+    </location>
+    <location><name>Kayenta Arizona Employment Resource Center</name>
+        <latitude>36.7247934</latitude><longitude>-110.2133804</longitude>
+    </location>
+    <location><name>Kennewick Washington Employment Resource Center</name>
+        <latitude>46.2156980</latitude><longitude>-119.2093160</longitude>
+    </location>
+    <location><name>Kinshasa Democratic Republic of the Congo Employment Resource Center</name>
+        <latitude>-4.3022720</latitude><longitude>15.3083250</longitude>
+    </location>
+    <location><name>Knoxville Tennessee Employment Resource Center</name>
+        <latitude>35.9205940</latitude><longitude>-84.0407340</longitude>
+    </location>
+    <location><name>Kumasi Ghana Employment Resource Center</name>
+        <latitude>6.7117830</latitude><longitude>-1.6058380</longitude>
+    </location>
+    <location><name>La Paz Bolivia Employment Resource Center</name>
+        <latitude>-16.5114800</latitude><longitude>-68.1256100</longitude>
+    </location>
+    <location><name>La Serena Chile Employment Resource Center</name>
+        <latitude>-29.9181920</latitude><longitude>-71.2543180</longitude>
+    </location>
+    <location><name>Lagos Nigeria Employment Resource Center</name>
+        <latitude>6.5946630</latitude><longitude>3.5539200</longitude>
+    </location>
+    <location><name>Laie Hawaii Employment Resource Center</name>
+        <latitude>21.6495370</latitude><longitude>-157.9295200</longitude>
+    </location>
+    <location><name>Laoag Philippines Employment Resource Center</name>
+        <latitude>18.1983490</latitude><longitude>120.5906370</longitude>
+    </location>
+    <location><name>Las Vegas Nevada Employment Resource Center</name>
+        <latitude>36.2405560</latitude><longitude>-115.1894820</longitude>
+    </location>
+    <location><name>Layton Utah Employment Resource Center</name>
+        <latitude>41.0746400</latitude><longitude>-111.9752910</longitude>
+    </location>
+    <location><name>Legaspi Philippines Employment Resource Center</name>
+        <latitude>13.1357860</latitude><longitude>123.7409860</longitude>
+    </location>
+    <location><name>Leipzig Germany Employment Resource Center</name>
+        <latitude>51.3548350</latitude><longitude>12.3716700</longitude>
+    </location>
+    <location><name>Lethbridge Alberta Canada Employment Resource Center</name>
+        <latitude>49.6951200</latitude><longitude>-112.7904350</longitude>
+    </location>
+    <location><name>Lima Central Sur Peru Employment Resource Center</name>
+        <latitude>-12.1702970</latitude><longitude>-77.0187680</longitude>
+    </location>
+    <location><name>Lima Este Per Employment Resource Center</name>
+        <latitude>-12.0253500</latitude><longitude>-76.9149300</longitude>
+    </location>
+    <location><name>Lima Noreste Peru Employment Resource Center</name>
+        <latitude>-12.0048500</latitude><longitude>-77.0034800</longitude>
+    </location>
+    <location><name>Lima Norte Per Employment Resource Center</name>
+        <latitude>-11.9888500</latitude><longitude>-77.0580680</longitude>
+    </location>
+    <location><name>Lima Oeste Per Employment Resource Center</name>
+        <latitude>-12.0585800</latitude><longitude>-77.0753950</longitude>
+    </location>
+    <location><name>Lima Peru Employment Resource Center</name>
+        <latitude>-12.0945150</latitude><longitude>-77.0381460</longitude>
+    </location>
+    <location><name>Lima Sur Peru Employment Resource Center</name>
+        <latitude>-12.1706820</latitude><longitude>-76.9507310</longitude>
+    </location>
+    <location><name>Lisbon Portugal Employment Resource Center</name>
+        <latitude>38.7534440</latitude><longitude>-9.1309250</longitude>
+    </location>
+    <location><name>Logan Utah Employment Resource Center</name>
+        <latitude>41.7577234</latitude><longitude>-111.8385139</longitude>
+    </location>
+    <location><name>London England Employment Resource Center</name>
+        <latitude>51.4981550</latitude><longitude>-0.1738320</longitude>
+    </location>
+    <location><name>Londrina Brazil Employment Resource Center</name>
+        <latitude>-23.3149880</latitude><longitude>-51.1664670</longitude>
+    </location>
+    <location><name>Los Angeles California Employment Resource Center</name>
+        <latitude>34.0214800</latitude><longitude>-118.2195850</longitude>
+    </location>
+    <location><name>Los çngeles Chile Employment Resource Center</name>
+        <latitude>-37.4801550</latitude><longitude>-72.3536800</longitude>
+    </location>
+    <location><name>Louisville Kentucky Employment Resource Center</name>
+        <latitude>38.2271550</latitude><longitude>-85.7196260</longitude>
+    </location>
+    <location><name>Lubumbashi DR Congo Employment Resource Center</name>
+        <latitude>-4.0383330</latitude><longitude>21.7586640</longitude>
+    </location>
+    <location><name>Macei Brazil Employment Resource Center</name>
+        <latitude>-9.6521000</latitude><longitude>-35.7303350</longitude>
+    </location>
+    <location><name>Machala Ecuador Employment Resource Center</name>
+        <latitude>-3.2661780</latitude><longitude>-79.9707960</longitude>
+    </location>
+    <location><name>Madrid Spain Employment Resource Center</name>
+        <latitude>40.4007680</latitude><longitude>-3.6315660</longitude>
+    </location>
+    <location><name>Maldonado Uruguay Employment Resource Center</name>
+        <latitude>-34.9083680</latitude><longitude>-54.9539070</longitude>
+    </location>
+    <location><name>Managua Nicaragua Employment Resource Center</name>
+        <latitude>12.1214470</latitude><longitude>-86.2848110</longitude>
+    </location>
+    <location><name>Manaus Brazil Employment Resource Center</name>
+        <latitude>-3.1011180</latitude><longitude>-60.0251500</longitude>
+    </location>
+    <location><name>Manila-Metro Philippines Employment Resource Center</name>
+        <latitude>14.5565000</latitude><longitude>121.0210000</longitude>
+    </location>
+    <location><name>Mar del Plata Argentina Employment Resource Center</name>
+        <latitude>-38.0169840</latitude><longitude>-57.5620040</longitude>
+    </location>
+    <location><name>Maracaibo Venezuela Employment Resource Center</name>
+        <latitude>10.6689740</latitude><longitude>-71.6324170</longitude>
+    </location>
+    <location><name>Marysville Washington Employment Resource Center</name>
+        <latitude>48.1531820</latitude><longitude>-122.1723730</longitude>
+    </location>
+    <location><name>Medellin Colombia Employment Resource Center</name>
+        <latitude>6.3163480</latitude><longitude>-75.5590170</longitude>
+    </location>
+    <location><name>Medford Oregon Employment Resource Center</name>
+        <latitude>42.4274700</latitude><longitude>-122.8835220</longitude>
+    </location>
+    <location><name>Melbourne Australia Employment Resource Center</name>
+        <latitude>-37.7841898</latitude><longitude>145.0124566</longitude>
+    </location>
+    <location><name>Memphis Tennessee Employment Resource Center</name>
+        <latitude>35.1315610</latitude><longitude>-89.7913670</longitude>
+    </location>
+    <location><name>Mendoza Argentina Employment Resource Center</name>
+        <latitude>-32.8888850</latitude><longitude>-68.8532350</longitude>
+    </location>
+    <location><name>Merida Mxico Employment Resource Center</name>
+        <latitude>20.9655470</latitude><longitude>-89.6317550</longitude>
+    </location>
+    <location><name>Mesa Arizona Employment Resource Center</name>
+        <latitude>33.4098600</latitude><longitude>-111.8870700</longitude>
+    </location>
+    <location><name>Mexicali Mxico Employment Resource Center</name>
+        <latitude>32.6478260</latitude><longitude>-115.4726750</longitude>
+    </location>
+    <location><name>Mexico City Camarones Mexico Employment Resource Center</name>
+        <latitude>19.4794810</latitude><longitude>-99.1866420</longitude>
+    </location>
+    <location><name>Miami Florida Employment Resource Center</name>
+        <latitude>25.9424470</latitude><longitude>-80.3343670</longitude>
+    </location>
+    <location><name>Milan Italy Employment Resource Center</name>
+        <latitude>45.5009740</latitude><longitude>9.2380200</longitude>
+    </location>
+    <location><name>Missoula Montana Employment Resource Center</name>
+        <latitude>46.8414530</latitude><longitude>-114.0079120</longitude>
+    </location>
+    <location><name>Mobile Alabama Employment Resource Center</name>
+        <latitude>30.7114540</latitude><longitude>-88.1709180</longitude>
+    </location>
+    <location><name>Moctezuma Mexico Employment Resource Center</name>
+        <latitude>19.4285640</latitude><longitude>-99.0949520</longitude>
+    </location>
+    <location><name>Monrovia Liberia Employment Resource Center</name>
+        <latitude>6.3069420</latitude><longitude>-10.7985120</longitude>
+    </location>
+    <location><name>Monsefu Branch</name>
+        <latitude>862"</latitude><longitude>,</longitude>
+    </location>
+    <location><name>Monterrey Mxico Employment Resource Center</name>
+        <latitude>25.6643880</latitude><longitude>-100.3116730</longitude>
+    </location>
+    <location><name>Montevideo Uruguay Employment Resource Center</name>
+        <latitude>-34.9057350</latitude><longitude>-56.1988160</longitude>
+    </location>
+    <location><name>Montreal Quebec Canada Employment Resource Center</name>
+        <latitude>45.4789000</latitude><longitude>-73.6207000</longitude>
+    </location>
+    <location><name>Moses Lake Washington Employment Resource Center</name>
+        <latitude>47.1138470</latitude><longitude>-119.2766720</longitude>
+    </location>
+    <location><name>Nairobi Kenya Employment Resource Center</name>
+        <latitude>-1.2975350</latitude><longitude>36.8192870</longitude>
+    </location>
+    <location><name>Nashville Tennessee Employment Resource Center</name>
+        <latitude>36.3000400</latitude><longitude>-86.6888000</longitude>
+    </location>
+    <location><name>Natal Brazil Employment Resource Center</name>
+        <latitude>-5.7533320</latitude><longitude>-35.2531340</longitude>
+    </location>
+    <location><name>Neuquen Argentina Employment Resource Center</name>
+        <latitude>-38.9507300</latitude><longitude>-68.1068180</longitude>
+    </location>
+    <location><name>New Orleans Louisiana Employment Resource Center</name>
+        <latitude>30.2997630</latitude><longitude>-89.7561670</longitude>
+    </location>
+    <location><name>New York New York City Employment Resource Center</name>
+        <latitude>40.7387400</latitude><longitude>-73.9981780</longitude>
+    </location>
+    <location><name>New Zealand Hastings Welfare Vol Employment Resource Center</name>
+        <latitude>-39.6343378</latitude><longitude>176.8335566</longitude>
+    </location>
+    <location><name>Northern Virginia Employment Resource Center</name>
+        <latitude>38.8382390</latitude><longitude>-77.1901890</longitude>
+    </location>
+    <location><name>Novo Hamburgo Brazil Employment Resource Center</name>
+        <latitude>-29.6919720</latitude><longitude>-51.1278220</longitude>
+    </location>
+    <location><name>Oakland California Employment Resource Center</name>
+        <latitude>37.8094520</latitude><longitude>-122.1984580</longitude>
+    </location>
+    <location><name>Oaxaca Mxico Employment Resource Center</name>
+        <latitude>17.0510190</latitude><longitude>-96.7224740</longitude>
+    </location>
+    <location><name>Ogden Utah Employment Resource Center</name>
+        <latitude>41.2394460</latitude><longitude>-111.9757310</longitude>
+    </location>
+    <location><name>Oklahoma City Oklahoma Employment Resource Center</name>
+        <latitude>35.3559290</latitude><longitude>-97.6004120</longitude>
+    </location>
+    <location><name>Olongapo Philippines Employment Resource Center</name>
+        <latitude>14.8433350</latitude><longitude>120.2900650</longitude>
+    </location>
+    <location><name>Olympia Washington Employment Resource Center</name>
+        <latitude>47.0517480</latitude><longitude>-122.8876510</longitude>
+    </location>
+    <location><name>Orlando Florida Employment Resource Center</name>
+        <latitude>28.4114140</latitude><longitude>-81.4015230</longitude>
+    </location>
+    <location><name>Oroquieta Philippines Employment Resource Center</name>
+        <latitude>8.4292909</latitude><longitude>123.7294198</longitude>
+    </location>
+    <location><name>Otavalo Ecuador Employment Resource Center</name>
+        <latitude>0.2273444</latitude><longitude>78.2671389</longitude>
+    </location>
+    <location><name>Panama City Panama Employment Resource Center</name>
+        <latitude>9.0099990</latitude><longitude>-79.5368000</longitude>
+    </location>
+    <location><name>Papeete Tahiti Employment Resource Center</name>
+        <latitude>-17.5326950</latitude><longitude>-149.5596620</longitude>
+    </location>
+    <location><name>Papua New Guinea Employment Resource Center</name>
+        <latitude>-9.1360187</latitude><longitude>147.4627259</longitude>
+    </location>
+    <location><name>Pelotas Brazil Employment Resource Center</name>
+        <latitude>-31.7454030</latitude><longitude>-52.3344830</longitude>
+    </location>
+    <location><name>Perth Australia Employment Resource Center</name>
+        <latitude>-31.9074541</latitude><longitude>115.8540785</longitude>
+    </location>
+    <location><name>Peru Trujillo Employment Resource Center</name>
+        <latitude>-8.1221800</latitude><longitude>-79.0364610</longitude>
+    </location>
+    <location><name>Philadelphia Pennsylvania Employment Resource Center</name>
+        <latitude>39.9554840</latitude><longitude>-75.2005110</longitude>
+    </location>
+    <location><name>Phnom Penh Cambodia Employment Resource Center</name>
+        <latitude>11.5425360</latitude><longitude>100.5626000</longitude>
+    </location>
+    <location><name>Phoenix Arizona Employment Resource Center</name>
+        <latitude>33.5920410</latitude><longitude>-112.1342520</longitude>
+    </location>
+    <location><name>Piura Per Employment Resource Center</name>
+        <latitude>-5.1923370</latitude><longitude>-80.6411600</longitude>
+    </location>
+    <location><name>Pocatello Idaho Employment Resource Center</name>
+        <latitude>42.8852860</latitude><longitude>-112.4550010</longitude>
+    </location>
+    <location><name>Ponta Grossa Brazil Employment Resource Center</name>
+        <latitude>-25.0889810</latitude><longitude>-50.1598030</longitude>
+    </location>
+    <location><name>Port Harcourt Nigeria Employment Resource Center</name>
+        <latitude>4.8361130</latitude><longitude>7.0250100</longitude>
+    </location>
+    <location><name>Port-Au-Prince Haiti Employment Resource Center</name>
+        <latitude>18.5407500</latitude><longitude>-72.3317440</longitude>
+    </location>
+    <location><name>Portland Oregon Employment Resource Center</name>
+        <latitude>45.4477630</latitude><longitude>-122.5788110</longitude>
+    </location>
+    <location><name>Porto Alegre Brazil Employment Resource Center</name>
+        <latitude>-30.0309130</latitude><longitude>-51.2313560</longitude>
+    </location>
+    <location><name>Posadas Argentina Volunteer Employment Resource Center</name>
+        <latitude>-27.3688170</latitude><longitude>-55.8877440</longitude>
+    </location>
+    <location><name>Price Utah Employment Resource Center</name>
+        <latitude>39.6066190</latitude><longitude>-110.8092620</longitude>
+    </location>
+    <location><name>Provo Utah Employment Resource Center</name>
+        <latitude>40.2526234</latitude><longitude>-111.6713858</longitude>
+    </location>
+    <location><name>Puebla Mexico Employment Resource Center</name>
+        <latitude>19.0482090</latitude><longitude>-98.2372020</longitude>
+    </location>
+    <location><name>Puerto Montt Chile Employment Resource Center</name>
+        <latitude>-41.4711430</latitude><longitude>-72.9512230</longitude>
+    </location>
+    <location><name>Puerto Rico Ponce Employment Resource Center</name>
+        <latitude>18.0043570</latitude><longitude>-66.6263980</longitude>
+    </location>
+    <location><name>Quetzaltenango Guatemala Employment Resource Center</name>
+        <latitude>14.6067660</latitude><longitude>-90.5163080</longitude>
+    </location>
+    <location><name>Quevedo Ecuador Employment Resource Center</name>
+        <latitude>-1.0348190</latitude><longitude>-79.4723830</longitude>
+    </location>
+    <location><name>Quilpue Chile Employment Resource Center</name>
+        <latitude>-33.0473870</latitude><longitude>-71.4457630</longitude>
+    </location>
+    <location><name>Quito Ecuador Employment Resource Center</name>
+        <latitude>-0.1896994</latitude><longitude>-78.4915709</longitude>
+    </location>
+    <location><name>Raleigh North Carolina Employment Resource Center</name>
+        <latitude>35.8509740</latitude><longitude>-78.6433180</longitude>
+    </location>
+    <location><name>Recife Brazil Employment Resource Center</name>
+        <latitude>-8.0602650</latitude><longitude>-34.8915780</longitude>
+    </location>
+    <location><name>Reno Nevada Employment Resource Center</name>
+        <latitude>39.5028090</latitude><longitude>-119.7609510</longitude>
+    </location>
+    <location><name>Repblica Chile Employment Resource Center</name>
+        <latitude>-33.4537540</latitude><longitude>-70.6677410</longitude>
+    </location>
+    <location><name>Resistencia Argentina Employment Resource Center</name>
+        <latitude>-27.4449350</latitude><longitude>-58.9868430</longitude>
+    </location>
+    <location><name>Retalhuleu Guatemala Employment Resource Center</name>
+        <latitude>14.5421360</latitude><longitude>-91.6707180</longitude>
+    </location>
+    <location><name>Rexburg Idaho Employment Resource Center</name>
+        <latitude>43.8377440</latitude><longitude>-111.7781670</longitude>
+    </location>
+    <location><name>Reynosa Mxico Employment Resource Center</name>
+        <latitude>26.0845750</latitude><longitude>-98.3026600</longitude>
+    </location>
+    <location><name>Ribeiro Preto Brazil Employment Resource Center</name>
+        <latitude>-21.1618560</latitude><longitude>-47.8042860</longitude>
+    </location>
+    <location><name>Richfield Utah Employment Resource Center</name>
+        <latitude>38.7679157</latitude><longitude>-112.0884446</longitude>
+    </location>
+    <location><name>Richmond Virginia Employment Resource Center</name>
+        <latitude>37.4235500</latitude><longitude>-77.6108690</longitude>
+    </location>
+    <location><name>Rio Grande Texas Employment Resource Center</name>
+        <latitude>26.2550910</latitude><longitude>-98.2453690</longitude>
+    </location>
+    <location><name>Rio de Janeiro Brazil Employment Resource Center</name>
+        <latitude>-22.9059440</latitude><longitude>-43.1779450</longitude>
+    </location>
+    <location><name>Riverton Utah Employment Resource Center</name>
+        <latitude>40.5108500</latitude><longitude>-111.9798390</longitude>
+    </location>
+    <location><name>Rochester New York Employment Resource Center</name>
+        <latitude>43.0644554</latitude><longitude>-77.4673362</longitude>
+    </location>
+    <location><name>Rosario Argentina Employment Resource Center</name>
+        <latitude>-32.9543500</latitude><longitude>-60.6417010</longitude>
+    </location>
+    <location><name>Sacramento California Employment Resource Center</name>
+        <latitude>38.6329540</latitude><longitude>-121.3936710</longitude>
+    </location>
+    <location><name>Salem Oregon Employment Resource Center</name>
+        <latitude>44.9420910</latitude><longitude>-122.9737770</longitude>
+    </location>
+    <location><name>Salt Lake City Utah Employment Resource Center</name>
+        <latitude>40.7519940</latitude><longitude>-111.9131920</longitude>
+    </location>
+    <location><name>Salta Argentina Employment Resource Center</name>
+        <latitude>-24.7924770</latitude><longitude>-65.4005430</longitude>
+    </location>
+    <location><name>Salto Uruguay Employment Resource Center</name>
+        <latitude>-31.3888740</latitude><longitude>-57.9541660</longitude>
+    </location>
+    <location><name>Salvador Brazil Employment Resource Center</name>
+        <latitude>-13.0133500</latitude><longitude>-38.4727650</longitude>
+    </location>
+    <location><name>San Antonio Texas Employment Resource Center</name>
+        <latitude>29.4737800</latitude><longitude>-98.5482060</longitude>
+    </location>
+    <location><name>San Diego California Employment Resource Center</name>
+        <latitude>32.8267310</latitude><longitude>-117.1489220</longitude>
+    </location>
+    <location><name>San Fernando California Employment Resource Center</name>
+        <latitude>34.3103890</latitude><longitude>-118.4725820</longitude>
+    </location>
+    <location><name>San Jose California Employment Resource Center</name>
+        <latitude>37.3791790</latitude><longitude>-121.8397400</longitude>
+    </location>
+    <location><name>San Jos Costa Rica Employment Resource Center</name>
+        <latitude>9.9353300</latitude><longitude>-84.0894200</longitude>
+    </location>
+    <location><name>San Juan Puerto Rico Employment Resource Center</name>
+        <latitude>18.3950960</latitude><longitude>-66.1296750</longitude>
+    </location>
+    <location><name>San Lorenzo Paraguay Employment Resource Center</name>
+        <latitude>-25.3459000</latitude><longitude>-57.5042748</longitude>
+    </location>
+    <location><name>San Luis Potosi Mxico Employment Resource Center</name>
+        <latitude>22.1537660</latitude><longitude>-100.9949830</longitude>
+    </location>
+    <location><name>San Pablo Philippines Employment Resource Center</name>
+        <latitude>14.0709120</latitude><longitude>121.3308480</longitude>
+    </location>
+    <location><name>San Pedro Sula Honduras Employment Resource Center</name>
+        <latitude>15.5303080</latitude><longitude>-88.0313700</longitude>
+    </location>
+    <location><name>San Salvador El Salvador Employment Resource Center</name>
+        <latitude>13.7007980</latitude><longitude>-89.2210340</longitude>
+    </location>
+    <location><name>Sandy Utah Employment Resource Center</name>
+        <latitude>40.5987268</latitude><longitude>-111.8747071</longitude>
+    </location>
+    <location><name>Santa Ana El Salvador Employment Resource Center</name>
+        <latitude>13.9841090</latitude><longitude>-89.5602310</longitude>
+    </location>
+    <location><name>Santa Cruz Bolivia Employment Resource Center</name>
+        <latitude>-17.7905660</latitude><longitude>-63.1771970</longitude>
+    </location>
+    <location><name>Santa Fe Argentina Employment Resource Center</name>
+        <latitude>-31.6323690</latitude><longitude>-60.7114350</longitude>
+    </location>
+    <location><name>Santa Maria Brazil Employment Resource Center</name>
+        <latitude>-29.6972900</latitude><longitude>-53.8165000</longitude>
+    </location>
+    <location><name>Santiago Dominican Republic Employment Resource Center</name>
+        <latitude>19.4586610</latitude><longitude>-70.7101750</longitude>
+    </location>
+    <location><name>Santiago Philippines Employment Resource Center</name>
+        <latitude>16.6915560</latitude><longitude>121.5517080</longitude>
+    </location>
+    <location><name>Santiago Vitacura Chile Employment Resource Center</name>
+        <latitude>-33.4150720</latitude><longitude>-70.6037640</longitude>
+    </location>
+    <location><name>Santo Domingo Dominican Republic Employment Resource Center</name>
+        <latitude>18.4593440</latitude><longitude>-69.9152500</longitude>
+    </location>
+    <location><name>Santos Brazil Employment Resource Center</name>
+        <latitude>-23.9655140</latitude><longitude>-46.3484300</longitude>
+    </location>
+    <location><name>Sao Paulo East Brazil Employment Resource Center</name>
+        <latitude>-23.4990100</latitude><longitude>-46.4412290</longitude>
+    </location>
+    <location><name>Seattle Washington Employment Resource Center</name>
+        <latitude>47.4789490</latitude><longitude>-122.2152290</longitude>
+    </location>
+    <location><name>Seoul Korea Employment Resource Center</name>
+        <latitude>37.5632280</latitude><longitude>127.0160320</longitude>
+    </location>
+    <location><name>Snowflake Arizona Employment Resource Center</name>
+        <latitude>34.5098560</latitude><longitude>-110.0790130</longitude>
+    </location>
+    <location><name>Sorocaba Brazil Employment Resource Center</name>
+        <latitude>-23.4925570</latitude><longitude>-47.4675800</longitude>
+    </location>
+    <location><name>Spanish Town Jamaica Employment Resource Center</name>
+        <latitude>18.0024110</latitude><longitude>-76.9606720</longitude>
+    </location>
+    <location><name>Spokane Washington Employment Resource Center</name>
+        <latitude>47.6591360</latitude><longitude>-117.2814160</longitude>
+    </location>
+    <location><name>Springville Utah Employment Resource Center</name>
+        <latitude>40.1571560</latitude><longitude>-111.6401270</longitude>
+    </location>
+    <location><name>St George Utah Employment Resource Center</name>
+        <latitude>37.1248473</latitude><longitude>-113.5305592</longitude>
+    </location>
+    <location><name>St Louis Missouri Employment Resource Center</name>
+        <latitude>38.7655830</latitude><longitude>-90.4310870</longitude>
+    </location>
+    <location><name>St Paul Minnesota Employment Resource Center</name>
+        <latitude>45.0110900</latitude><longitude>-93.0764570</longitude>
+    </location>
+    <location><name>Sugarhouse Employment Resource Center</name>
+        <latitude>40.7252030</latitude><longitude>-111.8696750</longitude>
+    </location>
+    <location><name>Suva Fiji Employment Resource Center</name>
+        <latitude>-18.1416000</latitude><longitude>178.4419000</longitude>
+    </location>
+    <location><name>Sydney Australia Employment Resource Center</name>
+        <latitude>-33.7745350</latitude><longitude>151.0505400</longitude>
+    </location>
+    <location><name>So Paulo ABC Brazil Employment Resource Center</name>
+        <latitude>-23.6978140</latitude><longitude>-46.5497720</longitude>
+    </location>
+    <location><name>So Paulo Brazil Employment Resource Center</name>
+        <latitude>-23.5627570</latitude><longitude>-46.6555620</longitude>
+    </location>
+    <location><name>Tacloban Philippines Employment Resource Center</name>
+        <latitude>11.2421194</latitude><longitude>125.0023861</longitude>
+    </location>
+    <location><name>Tacna Peru Employment Resource Center</name>
+        <latitude>-18.0171550</latitude><longitude>-70.2469889</longitude>
+    </location>
+    <location><name>Tacoma Washington Employment Resource Center</name>
+        <latitude>47.1866360</latitude><longitude>-122.4689710</longitude>
+    </location>
+    <location><name>Tai Chung Taiwan Employment Resource Center</name>
+        <latitude>24.8445510</latitude><longitude>121.0000823</longitude>
+    </location>
+    <location><name>Taipei Taiwan Employment Resource Center</name>
+        <latitude>25.0309370</latitude><longitude>121.5278190</longitude>
+    </location>
+    <location><name>Takoradi Ghana Employment Resource Center</name>
+        <latitude>4.8966180</latitude><longitude>-1.7660900</longitude>
+    </location>
+    <location><name>Tampa Florida Employment Resource Center</name>
+        <latitude>27.8686190</latitude><longitude>-82.7637550</longitude>
+    </location>
+    <location><name>Tampico Mxico Employment Resource Center</name>
+        <latitude>22.2716680</latitude><longitude>-97.8581070</longitude>
+    </location>
+    <location><name>Tegucigalpa Honduras Employment Resource Center</name>
+        <latitude>14.1038940</latitude><longitude>-87.1925040</longitude>
+    </location>
+    <location><name>Temuco Chile Employment Resource Center</name>
+        <latitude>-38.7354750</latitude><longitude>-72.6066610</longitude>
+    </location>
+    <location><name>Tijuana Mexico Employment Resource Center</name>
+        <latitude>32.5279930</latitude><longitude>-117.0438640</longitude>
+    </location>
+    <location><name>Tokyo Japan Employment Resource Center</name>
+        <latitude>35.6556520</latitude><longitude>139.6990580</longitude>
+    </location>
+    <location><name>Toluca Mexico Employment Resource Center</name>
+        <latitude>19.7148801</latitude><longitude>-99.2300220</longitude>
+    </location>
+    <location><name>Tongatapu Tonga Employment Resource Center</name>
+        <latitude>-21.1606040</latitude><longitude>-175.2726140</longitude>
+    </location>
+    <location><name>Tooele Utah Employment Resource Center</name>
+        <latitude>40.5598853</latitude><longitude>-112.2979922</longitude>
+    </location>
+    <location><name>Toronto Ontario Canada Employment Resource Center</name>
+        <latitude>43.7136180</latitude><longitude>-79.5917830</longitude>
+    </location>
+    <location><name>Torren Mxico Employment Resource Center</name>
+        <latitude>25.5508960</latitude><longitude>-103.4563170</longitude>
+    </location>
+    <location><name>Tucson Arizona Employment Resource Center</name>
+        <latitude>32.1865140</latitude><longitude>-110.9162850</longitude>
+    </location>
+    <location><name>Tucumn Argentina Employment Resource Center</name>
+        <latitude>-26.8378550</latitude><longitude>-65.1995350</longitude>
+    </location>
+    <location><name>Tulsa Oklahoma Employment Resource Center</name>
+        <latitude>36.1515520</latitude><longitude>-95.8420450</longitude>
+    </location>
+    <location><name>Tuxtla Gutierrez Mexico Employment Resource Center</name>
+        <latitude>16.7544950</latitude><longitude>-93.1235924</longitude>
+    </location>
+    <location><name>Twin Falls Idaho Employment Resource Center</name>
+        <latitude>42.5882910</latitude><longitude>-114.4641100</longitude>
+    </location>
+    <location><name>Ulaanbaatar Mongolia Employment Resource Center</name>
+        <latitude>47.9200110</latitude><longitude>106.9348030</longitude>
+    </location>
+    <location><name>Uyo Nigeria Employment Resource Center</name>
+        <latitude>5.0218690</latitude><longitude>7.9277350</longitude>
+    </location>
+    <location><name>Valdivia Chile Employment Resource Center</name>
+        <latitude>-39.8208240</latitude><longitude>-73.2302070</longitude>
+    </location>
+    <location><name>Valencia Venezuela Employment Resource Center</name>
+        <latitude>10.1722878</latitude><longitude>-68.0108400</longitude>
+    </location>
+    <location><name>Vancouver British Columbia Canada Employment Resource Center</name>
+        <latitude>49.1863500</latitude><longitude>-122.8342810</longitude>
+    </location>
+    <location><name>Vancouver Washington Employment Resource Center</name>
+        <latitude>45.6173340</latitude><longitude>-122.5645770</longitude>
+    </location>
+    <location><name>Veracruz Mexico Employment Resource Center</name>
+        <latitude>19.1846580</latitude><longitude>-96.1262990</longitude>
+    </location>
+    <location><name>Vernal Utah Employment Resource Center</name>
+        <latitude>40.4557261</latitude><longitude>-109.5289887</longitude>
+    </location>
+    <location><name>Victorville California Employment Resource Center</name>
+        <latitude>34.4713040</latitude><longitude>-117.2772490</longitude>
+    </location>
+    <location><name>Villahermosa Mxico Employment Resource Center</name>
+        <latitude>17.9782340</latitude><longitude>-92.9445980</longitude>
+    </location>
+    <location><name>Vina del Mar Chile Employment Resource Center</name>
+        <latitude>-33.0201460</latitude><longitude>-71.5456080</longitude>
+    </location>
+    <location><name>Vitria Brazil Employment Resource Center</name>
+        <latitude>-20.3405500</latitude><longitude>-40.3100000</longitude>
+    </location>
+    <location><name>Washington DC Employment Resource Center</name>
+        <latitude>38.8361250</latitude><longitude>-76.8661920</longitude>
+    </location>
+    <location><name>West Jordan Utah Employment Resource Center</name>
+        <latitude>40.6210333</latitude><longitude>-111.9388182</longitude>
+    </location>
+    <location><name>West Valley Utah Employment Resource Center</name>
+        <latitude>40.7056710</latitude><longitude>-112.0270550</longitude>
+    </location>
+    <location><name>Window Rock Arizona Employment Resource Center</name>
+        <latitude>35.6552677</latitude><longitude>-109.1002713</longitude>
+    </location>
+    <location><name>Yakima Washington Employment Resource Center</name>
+        <latitude>46.5868700</latitude><longitude>-120.5304220</longitude>
+    </location>
+    <location><name>Yerevan Armenia Employment Resource Center</name>
+        <latitude>40.1731210</latitude><longitude>44.5101550</longitude>
+    </location>
+    <location><name>Zarahemla Mxico Employment Resource Center</name>
+        <latitude>19.5333800</latitude><longitude>-99.1486030</longitude>
+    </location>
+</locations>
